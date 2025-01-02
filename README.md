@@ -33,7 +33,7 @@ La API estará disponible en `http://localhost:5000`
 api/
 ├── README.md
 ├── app.py
-└── ...
+├── db.sql
 ```
 ## Testing
 

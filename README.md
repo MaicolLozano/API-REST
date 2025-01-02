@@ -39,7 +39,7 @@ api/
 
 Para probar la API, puedes utilizar [Postman](https://www.postman.com/).
 
-## Documentación de la API
 
-La documentación de los endpoints disponibles se agregará conforme se implementen.
+
+
 
